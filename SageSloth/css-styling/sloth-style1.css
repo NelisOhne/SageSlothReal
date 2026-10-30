@@ -1,0 +1,271 @@
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 20px;
+    padding: 80px 160px 80px 160px;
+    gap: 72px ;
+}
+
+.sage-sloth-plaatje {
+    width: 550px;
+    height: 520px;
+}
+
+.hero-copy {
+    width: 480px;
+}
+
+.save-point {
+    color: #70D6B2;
+    background-color: #192B24;
+    border-radius: 999px;
+    padding: 16px 9px 16px 9px;
+    width: 175px;
+}
+
+.keep-calm {
+    width: 400px;
+    font-size: 72px;
+}
+
+.introductie {
+    color: grey;
+    font-size: 22px;
+    margin-bottom: 24px;
+}
+
+.buttons {
+    display: flex;
+}
+
+.button-blokje {
+    display: flex;
+}
+.short-reset {
+    width: 234px;
+    height: 53px;
+    padding: 16px 28px 16px 28px;
+}
+
+.session-preview {
+    color: white;
+    height: 630px;
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: center;
+    align-items: center;
+    padding: 96px 160px 96px 160px;
+    gap: 64px;
+    background-color: #13201B;
+}
+
+.session-console {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    background-color: #0B1210;
+    border-radius: 24px;
+    padding: 36px 36px 36px 36px;
+}
+
+.console-header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    color: #70D6B2;
+}
+
+.prompt {
+    font-size: 21px;
+}
+
+.breathing-visual {
+    display: flex;
+    justify-content: center;
+}
+
+.session-copy {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.session-title {
+    font-size: 52px;
+}
+
+.short-reset {
+    background-color: #A8D672;
+    border-radius: 999px;
+    padding: 16px 28px 16px 28px;
+    color: black;
+    margin-right: 8px;
+}
+
+.quests {
+    border-radius: 999px;
+    padding: 16px 28px 16px 28px;
+    border: 1px solid #4e6634;
+    margin-left: 8px;
+}
+
+.reset-modes {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    gap: 48px;
+    width: 1120px;
+    
+
+
+}
+
+.eyebrow {
+    color: #A8D672;
+    margin: 0px;
+}
+
+.helper {
+    color: grey;
+    margin: 0px;
+}
+
+.reset-cards {
+    display: flex;
+    gap: 24px;
+    flex-flow: row;
+
+
+    
+}
+
+.course-card1 {
+    background-color: #13201B;
+    padding: 32px 32px 32px 32px;
+    border-radius: 24px;
+
+}
+
+.card-header1 {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.action {
+    color: #A8D672;
+    margin-top: 15px;
+}
+
+.description {
+    color: #9EAA9E;
+}
+
+.course-card2 {
+    background-color: #13201B;
+    padding: 32px 32px 32px 32px;
+    border-radius: 24px;
+
+}
+
+.card-header2 {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.action2 {
+    color: #FFB893;
+    margin-top: 15px;
+}
+
+.description2 {
+    color: #9EAA9E;
+}
+
+.course-card3 {
+    background-color: #13201B;
+    padding: 32px 32px 32px 32px;
+    border-radius: 24px;
+
+}
+
+.card-header3 {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.action3 {
+    color: #C6B5FF;
+    margin-top: 15px;
+}
+
+.description3 {
+    color: #9EAA9E;
+}
+
+.player-notes {
+    height: 465px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.player-note {
+    color: #FFB893;
+    font-size: 13px;
+}
+
+.player-note-quote {
+    font-size: 42px;
+}
+
+.note-attribution {
+    color: gray;
+    font-size: 17px;
+}
+
+.join-the-party {
+    color: white;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding-bottom: 96px;
+
+}
+
+.newsletter {
+    background-color: #13201B;
+    width: 75%;
+    padding: 64px 96px 64px 96px;
+    gap: 24px;
+    border-radius: 36px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.party-title {
+    font-size: 42px;
+    color: #F3F1E7;  
+}
+
+.sign-up {
+   color: #2B4037;
+}
+
+.join-button {
+    background-color: #C6B5FF;
+    border-radius: 16px;
+    padding: 17px 28px 17px 28px;
+}

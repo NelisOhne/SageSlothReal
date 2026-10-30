@@ -1,0 +1,42 @@
+
+.practice-button {
+    color: #A8D672;
+}
+
+.hero {
+    color: white;
+    height: 560px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+
+.hero-copy {
+    height: 245px;
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    align-self:flex-start;
+    align-self: center;
+}
+
+.eyebrow {
+    color: #70D6B2;
+    font-size: 13px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.beginner-friendly-rounds {
+    color: gray;
+}
+
+.quest-library {
+    color: white;
+}
+
+

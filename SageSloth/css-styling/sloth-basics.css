@@ -1,0 +1,85 @@
+body,
+html {
+    margin: 0;
+    background-color: black;
+    height: 100%;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.header {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    height: 109px;
+}
+
+.page {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+
+}
+
+.container {
+    width: 1120px;
+    height: 100%;
+    background-color: black;
+}
+
+.header-buttons {
+
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+    justify-content: space-evenly;
+    align-items: center;
+    flex: 1;
+
+}
+
+.sage-sloth-logo {
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+.home-button {
+    color: #A8D672;
+}
+
+.login-button {
+    background-color: #192B24;
+    padding: 12px 32px 12px 32px;
+
+    border-radius: 10px;
+}
+
+
+
+
+footer {
+    color: white;
+    height: 220px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bigger-logo {
+    font-size: 28px;
+}
+
+.smaller-extra {
+    color: gray;
+    font-size: 14px;
+}
+
+.footer-links {
+    width: 186px;
+
+}
+
+.copyright {
+    color: gray;
+}
